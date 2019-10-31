@@ -4,6 +4,7 @@ Extract the annotated data file from the Sonic Visualiser annotation software
 Sonic Visualiser annotation software output txt file
 
 |time start     |number labels    |time of duration       |Text labels|
+|--------------|:---------------:|:----------------:|:------------:|
 |69.009705215	   |2	        |20.000000000	 |metro_mechanic_noise|
 |89.013877551	   |2	        |20.000000000	 |metro_mechanic_noise|
 |108.878367347	   |2	        |20.000000000	 |metro_mechanic_noise|
